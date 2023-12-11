@@ -8,4 +8,4 @@ Hi there 👋
 
 📫 How to reach me lokeen@graduate.utm.my
 
-🌱 visit my portfolio 
+🌱 visit my portfolio https://lokepeien.github.io/
